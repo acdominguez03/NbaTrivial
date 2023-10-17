@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NbaTrivial</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <!-- Add question strings -->
+    <string name="question">Pregunta</string>
+    <string name="answer_one">Respuesta Uno</string>
+    <string name="answer_two">Respuesta Dos</string>
+    <string name="answer_three">Respuesta Tres</string>
+    <string name="correct_answer">Respuesta Correcta</string>
+    <string name="create">Crear</string>
+    <string name="add_new_question">Añadir nueva pregunta</string>
+    <string name="title_features">features</string>
+
+    <!-- Home strings -->
+    <string name="title">NBA TRIVIAL</string>
+    <string name="play">JUGAR</string>
+    <string name="rank">RANKING</string>
+    <string name="add_question">ADD QUESTION</string>
+    <string name="logo">Logo NBA</string>
+
+    <!-- Result strings -->
+    <string name="http_exception_error">Oops, something went wrong</string>
+    <string name="IO_exception_error">Couldn´t reach server, check your internet connection</string>
+
+    <!-- Final Screen -->
+    <string name="your_puntuation">Tú puntuación!!!!</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="identify">Identifícate!</string>
+    <string name="upload">GUARDAR</string>
+</resources>

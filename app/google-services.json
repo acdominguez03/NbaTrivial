@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "912089995427",
+    "project_id": "nbatrivial",
+    "storage_bucket": "nbatrivial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912089995427:android:9b21f9e69a361a5fa48716",
+        "android_client_info": {
+          "package_name": "com.example.nbatrivial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912089995427-kl93la2ausg8gl07c8o1jbll2pcagbcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdvRtuKcz7hNV94D1Do0eTSeEMqW4i2EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912089995427-kl93la2ausg8gl07c8o1jbll2pcagbcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
